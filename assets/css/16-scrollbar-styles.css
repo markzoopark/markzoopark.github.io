@@ -1,0 +1,27 @@
+.sc-overflow {
+  overflow-y: auto;
+}
+
+section {
+  min-height: 100px;
+}
+
+.container {
+  max-height: 50%;
+  min-height: 10%;
+}
+
+article {
+  margin-top: 20px;
+  height: 350px;
+  background: #f4f4f4;
+  padding: 20px;
+}
+
+.col-4 {
+  min-width: 350px;
+}
+
+.col {
+}
+
